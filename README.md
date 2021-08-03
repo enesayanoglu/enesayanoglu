@@ -18,4 +18,4 @@ C | Embedded C |  STM32 | Python, OpenCV
 
 ![](https://komarev.com/ghpvc/?username=enesayanoglu)
 
-[![](https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png) [![](https://img.icons8.com/color/452/c-programming.png)](https://www.cprogramming.com) 
+ 
