@@ -18,4 +18,4 @@ C | Embedded C |  STM32 | Python, OpenCV
 
 ![](https://komarev.com/ghpvc/?username=enesayanoglu)
 
-[![](https://w7.pngwing.com/pngs/108/116/png-transparent-stmicroelectronics-stm32-software-development-kit-sensor-usb-angle-electronics-text-thumbnail.png)](https://community.st.com/s/) 
+[![](https://wiki.st.com/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png)](https://community.st.com/s/) 
