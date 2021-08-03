@@ -18,4 +18,4 @@ C | Embedded C |  STM32 | Python, OpenCV
 
 ![](https://komarev.com/ghpvc/?username=enesayanoglu)
 
-[![](https://wiki.st.com/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png)](https://community.st.com/s/) 
+[![](https://www.st.com/etc/clientlibs/st-site-cx/media/app/images/st-logo.svg)](https://community.st.com/s/) 
